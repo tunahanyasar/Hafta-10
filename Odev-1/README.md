@@ -6,6 +6,8 @@ Bill Gates'in parasını harcayabileceğiniz interaktif bir alışveriş simüla
 * **React**, **Vite**, **CSS3** ve **JavaScript** kullanılmıştır.
 * Context API ve React Hooks ile state yönetimi sağlanmıştır.
 
+Site Link [ https://spend-billgates-money-wd1u.vercel.app/ ]
+
 ---
 
 ## :computer: Kullanım
