@@ -20,9 +20,13 @@ git clone https://github.com/tunahanyasar/Hafta-10.git
 cd Odev-1
 ```
 
+
 3. Bağımlılıkları yükleyin
 ```bash
-npm install
+npm i
+```
+```bash
+npm install react-router-dom
 ```
 
 4. Geliştirme sunucusunu başlatın
