@@ -12,12 +12,12 @@ Bill Gates'in parasını harcayabileceğiniz interaktif bir alışveriş simüla
 
 1. Projeyi klonlayın
 ```bash
-git clone https://github.com/tunahanyasar/billgates-money.git
+git clone https://github.com/tunahanyasar/Hafta-10.git
 ```
 
 2. Proje klasörüne gidin
 ```bash
-cd billgates-money
+cd Odev-1
 ```
 
 3. Bağımlılıkları yükleyin
