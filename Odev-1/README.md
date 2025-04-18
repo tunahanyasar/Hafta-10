@@ -248,4 +248,4 @@ Bu proje, Bill Gates'in servetini görselleştirmek ve kullanıcıların bu serv
 
 Tunahan Yasar - [GitHub](https://github.com/tunahanyasar)
 
-Proje Linki: [https://github.com/tunahanyasar/billgates-money]
+
