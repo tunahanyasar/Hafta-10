@@ -202,4 +202,4 @@ Bu proje, kullanıcıların notlarını kolayca yönetebilecekleri, basit ve kul
 
 ## 👤 İletişim
 
-[GitHub Profiliniz](https://github.com/yourusername)
+[GitHub](https://github.com/tunahanyasar)
