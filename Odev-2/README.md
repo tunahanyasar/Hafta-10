@@ -12,7 +12,7 @@ Basit ve kullanıcı dostu bir not alma uygulamasıdır. React ve Vite kullanıl
 
 1. Projeyi klonlayın
 ```bash
-git clone https://github.com/yourusername/Hafta-10.git
+git clone https://github.com/tunahanyasar/Hafta-10.git
 ```
 
 2. Proje klasörüne gidin
